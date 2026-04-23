@@ -2,6 +2,8 @@
   "name": "bitrix-bot-vercel",
   "version": "1.0.0",
   "dependencies": {
-    "node-fetch": "^3.3.0"
+    "node-fetch": "^3.3.0",
+    "axios": "^1.6.0",
+    "querystring": "^0.2.1"
   }
 }
